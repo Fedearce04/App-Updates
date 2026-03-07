@@ -1,0 +1,16 @@
+{
+    "channels":  {
+                     "stable":  {
+                                    "channel":  "stable",
+                                    "latest":  {
+                                                   "version":  "2.5.4",
+                                                   "minimum_supported_version":  "2.5.4",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.4/DentalSystem-Setup-2.5.4.exe",
+                                                   "sha256":  "27b632947a27eddaa3af79113adb95525d743ba1f166a8f5a3b8b0530534d3d2",
+                                                   "mandatory":  false,
+                                                   "notes":  ""
+                                               },
+                                    "published_at_utc":  "2026-03-07T22:17:31.5865339Z"
+                                }
+                 }
+}
