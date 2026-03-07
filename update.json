@@ -3,14 +3,14 @@
                      "stable":  {
                                     "channel":  "stable",
                                     "latest":  {
-                                                   "version":  "2.5.4",
+                                                   "version":  "2.5.5",
                                                    "minimum_supported_version":  "2.5.4",
-                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.4/DentalSystem-Setup-2.5.4.exe",
-                                                   "sha256":  "27b632947a27eddaa3af79113adb95525d743ba1f166a8f5a3b8b0530534d3d2",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.5/DentalSystem-Setup-2.5.5.exe",
+                                                   "sha256":  "8880a9fafacd857ad134a194a4ce26af0757772622a670ff1a4860aa4678420c",
                                                    "mandatory":  false,
-                                                   "notes":  ""
+                                                   "notes":  "Novedades v2.5.5\n- Se muestra una ventana de novedades luego de actualizar.\n- Mejoras en el flujo de actualización para cliente Windows."
                                                },
-                                    "published_at_utc":  "2026-03-07T22:17:31.5865339Z"
+                                    "published_at_utc":  "2026-03-07T22:42:47.4264738Z"
                                 }
                  }
 }
