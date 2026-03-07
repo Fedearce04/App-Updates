@@ -1,0 +1,16 @@
+{
+    "channels":  {
+                     "stable":  {
+                                    "channel":  "stable",
+                                    "latest":  {
+                                                   "version":  "2.5.2",
+                                                   "minimum_supported_version":  "2.5.2",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.2/DentalSystem-Installer-2.5.2.exe",
+                                                   "sha256":  "3f5cc4986d010893a7cf8f67e807589be9ec3bf7a2a5422051e5d9272064b72d",
+                                                   "mandatory":  false,
+                                                   "notes":  ""
+                                               },
+                                    "published_at_utc":  "2026-03-07T21:42:38.1367169Z"
+                                }
+                 }
+}
