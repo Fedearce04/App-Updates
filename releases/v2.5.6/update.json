@@ -1,0 +1,16 @@
+{
+    "channels":  {
+                     "stable":  {
+                                    "channel":  "stable",
+                                    "latest":  {
+                                                   "version":  "2.5.6",
+                                                   "minimum_supported_version":  "2.5.5",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.6/DentalSystem-Setup-2.5.6.exe",
+                                                   "sha256":  "cb1e63856bad66703fbafa645268258c9cf868eba7144ff59056556ba24156a5",
+                                                   "mandatory":  false,
+                                                   "notes":  "Novedades v2.5.6\n- Corregido: ventana de novedades ahora aparece al abrir la app luego de actualizar.\n- Nuevo: notificacion persistente en campana cuando se instala una nueva version."
+                                               },
+                                    "published_at_utc":  "2026-03-07T22:56:53.1873559Z"
+                                }
+                 }
+}
