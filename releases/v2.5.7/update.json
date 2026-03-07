@@ -1,0 +1,16 @@
+{
+    "channels":  {
+                     "stable":  {
+                                    "channel":  "stable",
+                                    "latest":  {
+                                                   "version":  "2.5.7",
+                                                   "minimum_supported_version":  "2.5.6",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.7/DentalSystem-Setup-2.5.7.exe",
+                                                   "sha256":  "2eaff313fddb450e2dd2697dcdbad432ba0881f4b9f549ff9fa4249ebd36366c",
+                                                   "mandatory":  false,
+                                                   "notes":  "Novedades v2.5.7\n- Nuevo: ventana de novedades redisenada con estilo profesional, clara y en espanol.\n- Mejoras: resumen visual de version + tarjetas de mejoras mas legibles.\n- Correccion: limpieza de caracteres raros en textos de novedades."
+                                               },
+                                    "published_at_utc":  "2026-03-07T23:08:30.1333030Z"
+                                }
+                 }
+}
