@@ -3,14 +3,14 @@
                      "stable":  {
                                     "channel":  "stable",
                                     "latest":  {
-                                                   "version":  "2.5.8",
+                                                   "version":  "2.5.9",
                                                    "minimum_supported_version":  "2.5.8",
-                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.8/DentalSystem-Setup-2.5.8.exe",
-                                                   "sha256":  "391aa60ccdbc1d5e459246e91a2b5785f189c5818d471143ab7121b67c670390",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.9/DentalSystem-Setup-2.5.9.exe",
+                                                   "sha256":  "01c6f61ac6dfa4544f35ab4d5f39c321e583fe379f94a5c04f61557a888710ac",
                                                    "mandatory":  false,
-                                                   "notes":  "Fix multi-clínica: aislamiento de catálogo de precios y métodos de pago"
+                                                   "notes":  "- Fix multi clinica en categorias de agenda\n- Fix popup de novedades: se muestra una sola vez por version\n- Mejoras de persistencia al cerrar notificaciones"
                                                },
-                                    "published_at_utc":  "2026-03-08T00:22:07.5709253Z"
+                                    "published_at_utc":  "2026-03-08T11:54:51.7338853Z"
                                 }
                  }
 }
