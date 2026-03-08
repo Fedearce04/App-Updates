@@ -1,0 +1,9 @@
+﻿Version=2.5.10
+Tag=v2.5.10
+Channel=stable
+Mandatory=False
+MinimumSupportedVersion=2.5.8
+InstallerAssetName=DentalSystem-Setup-2.5.10.exe
+Sha256=856f53f1fd67c37477b7b8debf833d6b263d2a11a8debd051b0342829b1d3486
+DownloadUrl=https://raw.githubusercontent.com/Fedearce04/App-Updates/main/v2.5.10/DentalSystem-Setup-2.5.10.exe
+GeneratedUtc=2026-03-08T15:07:31.7025917Z

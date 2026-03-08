@@ -1,0 +1,16 @@
+{
+    "channels":  {
+                     "stable":  {
+                                    "channel":  "stable",
+                                    "latest":  {
+                                                   "version":  "2.5.10",
+                                                   "minimum_supported_version":  "2.5.8",
+                                                   "download_url":  "https://raw.githubusercontent.com/Fedearce04/App-Updates/main/v2.5.10/DentalSystem-Setup-2.5.10.exe",
+                                                   "sha256":  "856f53f1fd67c37477b7b8debf833d6b263d2a11a8debd051b0342829b1d3486",
+                                                   "mandatory":  false,
+                                                   "notes":  "- Correccion de permisos y rol principal de administracion\n- Correcciones multi-clinica en catalogos y categorias\n- Mejoras de estabilidad en configuraciones y experiencia de actualizacion"
+                                               },
+                                    "published_at_utc":  "2026-03-08T15:07:57.4793264Z"
+                                }
+                 }
+}
