@@ -3,14 +3,14 @@
                      "stable":  {
                                     "channel":  "stable",
                                     "latest":  {
-                                                   "version":  "2.5.10",
-                                                   "minimum_supported_version":  "2.5.8",
-                                                   "download_url":  "https://raw.githubusercontent.com/Fedearce04/App-Updates/main/v2.5.10/DentalSystem-Setup-2.5.10.exe",
-                                                   "sha256":  "856f53f1fd67c37477b7b8debf833d6b263d2a11a8debd051b0342829b1d3486",
+                                                   "version":  "2.5.11",
+                                                   "minimum_supported_version":  "2.5.10",
+                                                   "download_url":  "https://raw.githubusercontent.com/Fedearce04/App-Updates/main/v2.5.11/DentalSystem-Setup-2.5.11.exe",
+                                                   "sha256":  "21089aae34ab953016346ab024c23621ec5a9edc1edec1fdff1d7e3b64361081",
                                                    "mandatory":  false,
-                                                   "notes":  "- Correccion de permisos y rol principal de administracion\n- Correcciones multi-clinica en catalogos y categorias\n- Mejoras de estabilidad en configuraciones y experiencia de actualizacion"
+                                                   "notes":  "- Alta de usuarios desde Profesionales y Accesos por email (creacion/invitacion)\n- Permisos personalizados por modulo al crear acceso\n- Correccion de listado de miembros y refresco inmediato en pantalla"
                                                },
-                                    "published_at_utc":  "2026-03-08T15:07:57.4793264Z"
+                                    "published_at_utc":  "2026-03-09T22:38:26.2254768Z"
                                 }
                  }
 }
