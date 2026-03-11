@@ -1,0 +1,16 @@
+﻿{
+    "channels":  {
+                     "stable":  {
+                                    "channel":  "stable",
+                                    "latest":  {
+                                                   "version":  "2.5.12",
+                                                   "minimum_supported_version":  "2.5.11",
+                                                   "download_url":  "https://raw.githubusercontent.com/Fedearce04/App-Updates/main/v2.5.12/DentalSystem-Setup-2.5.12.exe",
+                                                   "sha256":  "f656060c18b6d926774c79873dc86b4a8b5c33e25eeeae4adb0abda29bda7eb2",
+                                                   "mandatory":  false,
+                                                   "notes":  "- Ajustes de permisos y gestion de accesos por rol\n- Correcciones de pantalla de configuracion y textos\n- Mejoras de estabilidad en update y navegacion"
+                                               },
+                                    "published_at_utc":  "2026-03-11T03:17:16.8699989Z"
+                                }
+                 }
+}

@@ -3,15 +3,14 @@
                      "stable":  {
                                     "channel":  "stable",
                                     "latest":  {
-                                                   "version":  "2.5.11",
-                                                   "minimum_supported_version":  "2.5.10",
-                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.11/DentalSystem-Setup-2.5.11.exe",
-                                                   "sha256":  "21089aae34ab953016346ab024c23621ec5a9edc1edec1fdff1d7e3b64361081",
+                                                   "version":  "2.5.12",
+                                                   "minimum_supported_version":  "2.5.11",
+                                                   "download_url":  "https://raw.githubusercontent.com/Fedearce04/App-Updates/main/v2.5.12/DentalSystem-Setup-2.5.12.exe",
+                                                   "sha256":  "f656060c18b6d926774c79873dc86b4a8b5c33e25eeeae4adb0abda29bda7eb2",
                                                    "mandatory":  false,
-                                                   "notes":  "- Alta de usuarios desde Profesionales y Accesos por email (creacion/invitacion)\n- Permisos personalizados por modulo al crear acceso\n- Correccion de listado de miembros y refresco inmediato en pantalla"
+                                                   "notes":  "- Ajustes de permisos y gestion de accesos por rol\n- Correcciones de pantalla de configuracion y textos\n- Mejoras de estabilidad en update y navegacion"
                                                },
-                                    "published_at_utc":  "2026-03-09T22:38:26.2254768Z"
+                                    "published_at_utc":  "2026-03-11T03:17:16.8699989Z"
                                 }
                  }
 }
-
