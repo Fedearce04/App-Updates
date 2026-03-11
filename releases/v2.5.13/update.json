@@ -1,0 +1,16 @@
+﻿{
+    "channels":  {
+                     "stable":  {
+                                    "channel":  "stable",
+                                    "latest":  {
+                                                   "version":  "2.5.13",
+                                                   "minimum_supported_version":  "2.5.12",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.13/DentalSystem-Setup-2.5.13.exe",
+                                                   "sha256":  "3eae97718d85d8e1e3fbd5a711667136e88e5a9bbf5f5fd9db026cf9b5aaf466",
+                                                   "mandatory":  false,
+                                                   "notes":  "Mejoras UI de caja y configuracion; email de paciente opcional; persistencia de logo de clinica"
+                                               },
+                                    "published_at_utc":  "2026-03-11T17:02:10.7133131Z"
+                                }
+                 }
+}

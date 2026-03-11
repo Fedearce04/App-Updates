@@ -1,0 +1,14 @@
+﻿Version=2.5.13
+Tag=v2.5.13
+AppOriginUrl=https://github.com/Fedearce04/App.git
+SourceCommit=23044681a56feb6092d470daf3555b831d357a07
+Channel=stable
+Mandatory=False
+MinimumSupportedVersion=2.5.12
+InstallerPath=C:\release-build\App_release_2.5.13_20260311135539\dist\windows-installer\DentalSystem-Setup-2.5.13.exe
+InstallerAssetName=DentalSystem-Setup-2.5.13.exe
+Sha256=3eae97718d85d8e1e3fbd5a711667136e88e5a9bbf5f5fd9db026cf9b5aaf466
+DownloadUrl=https://github.com/Fedearce04/App-Updates/releases/download/v2.5.13/DentalSystem-Setup-2.5.13.exe
+BundleManifest=release\app-updates\v2.5.13\update.json
+LatestManifest=release\app-updates\update.json
+GeneratedUtc=2026-03-11T17:02:10.7884609Z
