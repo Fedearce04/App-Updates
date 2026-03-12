@@ -1,0 +1,20 @@
+﻿{
+    "channels":  {
+                     "stable":  {
+                                    "channel":  "stable",
+                                    "latest":  {
+                                                   "version":  "2.5.16",
+                                                   "minimum_supported_version":  "2.5.15",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.16/DentalSystem-Setup-2.5.16.exe",
+                                                   "sha256":  "1c117ad1983325763281ef946ae07dbc84aad69ca50f7c96a910a4e54bd1ad4b",
+                                                   "size_bytes":  16677658,
+                                                   "installer_args":  [
+
+                                                                      ],
+                                                   "mandatory":  false,
+                                                   "notes":  "Nuevo flujo de actualizacion interna sin Chrome, descarga en app con verificacion SHA256 y helper nativo para instalar/reabrir automaticamente."
+                                               },
+                                    "published_at_utc":  "2026-03-12T17:24:52.9000693Z"
+                                }
+                 }
+}

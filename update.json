@@ -3,14 +3,18 @@
                      "stable":  {
                                     "channel":  "stable",
                                     "latest":  {
-                                                   "version":  "2.5.15",
-                                                   "minimum_supported_version":  "2.5.14",
-                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.15/DentalSystem-Setup-2.5.15.exe",
-                                                   "sha256":  "3e4ee0a9f968fec3bca4017c86105c0d94810eb17b98b2e5c1c952f785a80d35",
+                                                   "version":  "2.5.16",
+                                                   "minimum_supported_version":  "2.5.15",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.16/DentalSystem-Setup-2.5.16.exe",
+                                                   "sha256":  "1c117ad1983325763281ef946ae07dbc84aad69ca50f7c96a910a4e54bd1ad4b",
+                                                   "size_bytes":  16677658,
+                                                   "installer_args":  [
+
+                                                                      ],
                                                    "mandatory":  false,
-                                                   "notes":  "Fix de build Windows sin permisos admin; estabilidad de guardado de pacientes y mejoras de categorias de agenda."
+                                                   "notes":  "Nuevo flujo de actualizacion interna sin Chrome, descarga en app con verificacion SHA256 y helper nativo para instalar/reabrir automaticamente."
                                                },
-                                    "published_at_utc":  "2026-03-12T02:12:12.5912726Z"
+                                    "published_at_utc":  "2026-03-12T17:24:52.9000693Z"
                                 }
                  }
 }
