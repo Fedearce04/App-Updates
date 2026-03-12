@@ -3,14 +3,14 @@
                      "stable":  {
                                     "channel":  "stable",
                                     "latest":  {
-                                                   "version":  "2.5.13",
-                                                   "minimum_supported_version":  "2.5.12",
-                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.13/DentalSystem-Setup-2.5.13.exe",
-                                                   "sha256":  "3eae97718d85d8e1e3fbd5a711667136e88e5a9bbf5f5fd9db026cf9b5aaf466",
+                                                   "version":  "2.5.15",
+                                                   "minimum_supported_version":  "2.5.14",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.15/DentalSystem-Setup-2.5.15.exe",
+                                                   "sha256":  "3e4ee0a9f968fec3bca4017c86105c0d94810eb17b98b2e5c1c952f785a80d35",
                                                    "mandatory":  false,
-                                                   "notes":  "Mejoras UI de caja y configuracion; email de paciente opcional; persistencia de logo de clinica"
+                                                   "notes":  "Fix de build Windows sin permisos admin; estabilidad de guardado de pacientes y mejoras de categorias de agenda."
                                                },
-                                    "published_at_utc":  "2026-03-11T17:02:10.7133131Z"
+                                    "published_at_utc":  "2026-03-12T02:12:12.5912726Z"
                                 }
                  }
 }
