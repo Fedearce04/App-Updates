@@ -1,0 +1,20 @@
+﻿{
+    "channels":  {
+                     "stable":  {
+                                    "channel":  "stable",
+                                    "latest":  {
+                                                   "version":  "2.5.18",
+                                                   "minimum_supported_version":  "2.5.16",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.18/DentalSystem-Setup-2.5.18.exe",
+                                                   "sha256":  "82702ee859d5ee63dc0aab1ee4aebd6e1e908ee3e8947067b8165a3153d1266e",
+                                                   "size_bytes":  16677547,
+                                                   "installer_args":  [
+
+                                                                      ],
+                                                   "mandatory":  false,
+                                                   "notes":  "Fix updater: reintentos, fallback de descarga externa y mejora de preparacion en clientes."
+                                               },
+                                    "published_at_utc":  "2026-03-13T02:11:47.7192618Z"
+                                }
+                 }
+}
