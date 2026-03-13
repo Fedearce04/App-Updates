@@ -1,0 +1,20 @@
+﻿{
+    "channels":  {
+                     "stable":  {
+                                    "channel":  "stable",
+                                    "latest":  {
+                                                   "version":  "2.5.21",
+                                                   "minimum_supported_version":  "2.5.18",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.21/DentalSystem-Setup-2.5.21.exe",
+                                                   "sha256":  "c400b0c9e004caa2804d76d03b731854784a84ecc149e1ace7da162dcdb40a7a",
+                                                   "size_bytes":  16687549,
+                                                   "installer_args":  [
+
+                                                                      ],
+                                                   "mandatory":  false,
+                                                   "notes":  "Fix updater: validacion mas robusta del instalador (tamano + SHA), fallback anti-cache y mensajes mas claros ante proxy/antivirus."
+                                               },
+                                    "published_at_utc":  "2026-03-13T17:22:57.6199318Z"
+                                }
+                 }
+}

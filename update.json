@@ -3,18 +3,18 @@
                      "stable":  {
                                     "channel":  "stable",
                                     "latest":  {
-                                                   "version":  "2.5.20",
+                                                   "version":  "2.5.21",
                                                    "minimum_supported_version":  "2.5.18",
-                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.20/DentalSystem-Setup-2.5.20.exe",
-                                                   "sha256":  "e10d5984270260ec6f21104887bc0fc9f11739b35cc2ec35a769352fa20e51b6",
-                                                   "size_bytes":  16682320,
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.21/DentalSystem-Setup-2.5.21.exe",
+                                                   "sha256":  "c400b0c9e004caa2804d76d03b731854784a84ecc149e1ace7da162dcdb40a7a",
+                                                   "size_bytes":  16687549,
                                                    "installer_args":  [
 
                                                                       ],
                                                    "mandatory":  false,
-                                                   "notes":  "Fix documentos: presupuestos y recetas vuelven a guardarse correctamente. Ajuste del instalador para hacer mas estable la entrega de actualizaciones."
+                                                   "notes":  "Fix updater: validacion mas robusta del instalador (tamano + SHA), fallback anti-cache y mensajes mas claros ante proxy/antivirus."
                                                },
-                                    "published_at_utc":  "2026-03-13T16:48:23.5738590Z"
+                                    "published_at_utc":  "2026-03-13T17:22:57.6199318Z"
                                 }
                  }
 }
