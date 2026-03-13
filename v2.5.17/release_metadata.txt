@@ -1,0 +1,14 @@
+﻿Version=2.5.17
+Tag=v2.5.17
+AppOriginUrl=https://github.com/Fedearce04/App.git
+SourceCommit=788d2d59e1e32a5c7a1d52c2b10a29378664787c
+Channel=stable
+Mandatory=False
+MinimumSupportedVersion=2.5.16
+InstallerPath=C:\release-build\App_release_2.5.17_20260312221603\dist\windows-installer\DentalSystem-Setup-2.5.17.exe
+InstallerAssetName=DentalSystem-Setup-2.5.17.exe
+Sha256=321c92bc867aff7f08ee37dab7ad272270f2920592c1b87c95202eb4b3801299
+DownloadUrl=https://github.com/Fedearce04/App-Updates/releases/download/v2.5.17/DentalSystem-Setup-2.5.17.exe
+BundleManifest=release\app-updates\v2.5.17\update.json
+LatestManifest=release\app-updates\update.json
+GeneratedUtc=2026-03-13T01:24:55.8479747Z

@@ -1,0 +1,20 @@
+﻿{
+    "channels":  {
+                     "stable":  {
+                                    "channel":  "stable",
+                                    "latest":  {
+                                                   "version":  "2.5.17",
+                                                   "minimum_supported_version":  "2.5.16",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.17/DentalSystem-Setup-2.5.17.exe",
+                                                   "sha256":  "321c92bc867aff7f08ee37dab7ad272270f2920592c1b87c95202eb4b3801299",
+                                                   "size_bytes":  16674630,
+                                                   "installer_args":  [
+
+                                                                      ],
+                                                   "mandatory":  false,
+                                                   "notes":  "Fix caja cierre: arqueo solo efectivo, nombres reales de pacientes en reporte, mejoras de preview"
+                                               },
+                                    "published_at_utc":  "2026-03-13T01:24:55.7738962Z"
+                                }
+                 }
+}
