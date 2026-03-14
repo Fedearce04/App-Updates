@@ -3,18 +3,18 @@
                      "stable":  {
                                     "channel":  "stable",
                                     "latest":  {
-                                                   "version":  "2.5.21",
-                                                   "minimum_supported_version":  "2.5.18",
-                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.21/DentalSystem-Setup-2.5.21.exe",
-                                                   "sha256":  "c400b0c9e004caa2804d76d03b731854784a84ecc149e1ace7da162dcdb40a7a",
-                                                   "size_bytes":  16687549,
+                                                   "version":  "2.5.22",
+                                                   "minimum_supported_version":  "2.5.22",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.22/DentalSystem-Setup-2.5.22.exe",
+                                                   "sha256":  "88f9045f189dc2b5c656db861ca5e29579b9f86338663761a461ce54f5ebb074",
+                                                   "size_bytes":  16687198,
                                                    "installer_args":  [
 
                                                                       ],
                                                    "mandatory":  false,
-                                                   "notes":  "Fix updater: validacion mas robusta del instalador (tamano + SHA), fallback anti-cache y mensajes mas claros ante proxy/antivirus."
+                                                   "notes":  "Fix documentos: guardado estable de presupuestos y recetas; cierre de caja con nombres reales."
                                                },
-                                    "published_at_utc":  "2026-03-13T17:22:57.6199318Z"
+                                    "published_at_utc":  "2026-03-14T01:53:03.4146622Z"
                                 }
                  }
 }
