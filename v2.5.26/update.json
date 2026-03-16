@@ -1,0 +1,20 @@
+﻿{
+    "channels":  {
+                     "stable":  {
+                                    "channel":  "stable",
+                                    "latest":  {
+                                                   "version":  "2.5.26",
+                                                   "minimum_supported_version":  "2.5.24",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.26/DentalSystem-Setup-2.5.26.exe",
+                                                   "sha256":  "0fe618992538f2ea7ee6dc6242070bc02ac49ff928c6be99fc4574ca03f7532e",
+                                                   "size_bytes":  16703776,
+                                                   "installer_args":  [
+
+                                                                      ],
+                                                   "mandatory":  false,
+                                                   "notes":  "Fix updater: transporte endurecido, mirrors priorizados y validacion de respuesta binaria para evitar mismatch SHA en entornos con proxy/cache."
+                                               },
+                                    "published_at_utc":  "2026-03-16T22:56:11.0695780Z"
+                                }
+                 }
+}

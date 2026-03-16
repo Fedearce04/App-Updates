@@ -3,18 +3,18 @@
                      "stable":  {
                                     "channel":  "stable",
                                     "latest":  {
-                                                   "version":  "2.5.25",
-                                                   "minimum_supported_version":  "2.5.23",
-                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.25/DentalSystem-Setup-2.5.25.exe",
-                                                   "sha256":  "85e19cc0b6534226f401f9313835bbf855094dd5e296f23435846aa67812885f",
-                                                   "size_bytes":  16703366,
+                                                   "version":  "2.5.26",
+                                                   "minimum_supported_version":  "2.5.24",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.26/DentalSystem-Setup-2.5.26.exe",
+                                                   "sha256":  "0fe618992538f2ea7ee6dc6242070bc02ac49ff928c6be99fc4574ca03f7532e",
+                                                   "size_bytes":  16703776,
                                                    "installer_args":  [
 
                                                                       ],
                                                    "mandatory":  false,
-                                                   "notes":  "Hotfix delivery: release limpia para evitar mismatch SHA en clientes 2.5.23 y traer updater robusto."
+                                                   "notes":  "Fix updater: transporte endurecido, mirrors priorizados y validacion de respuesta binaria para evitar mismatch SHA en entornos con proxy/cache."
                                                },
-                                    "published_at_utc":  "2026-03-16T22:27:47.1570556Z"
+                                    "published_at_utc":  "2026-03-16T22:56:11.0695780Z"
                                 }
                  }
 }
