@@ -3,18 +3,18 @@
                      "stable":  {
                                     "channel":  "stable",
                                     "latest":  {
-                                                   "version":  "2.5.26",
+                                                   "version":  "2.5.27",
                                                    "minimum_supported_version":  "2.5.24",
-                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.26/DentalSystem-Setup-2.5.26.exe",
-                                                   "sha256":  "0fe618992538f2ea7ee6dc6242070bc02ac49ff928c6be99fc4574ca03f7532e",
-                                                   "size_bytes":  16703776,
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.27/DentalSystem-Setup-2.5.27.exe",
+                                                   "sha256":  "224df54273ac0f420073d6004f5007b37ced7d3502445cd7a97f778aa67db404",
+                                                   "size_bytes":  16708703,
                                                    "installer_args":  [
 
                                                                       ],
                                                    "mandatory":  false,
-                                                   "notes":  "Fix updater: transporte endurecido, mirrors priorizados y validacion de respuesta binaria para evitar mismatch SHA en entornos con proxy/cache."
+                                                   "notes":  "Fix updater: fallback real por candidato en errores de descarga para evitar bloqueo por mismatch SHA en cliente."
                                                },
-                                    "published_at_utc":  "2026-03-16T22:56:11.0695780Z"
+                                    "published_at_utc":  "2026-03-16T23:49:21.6226903Z"
                                 }
                  }
 }
