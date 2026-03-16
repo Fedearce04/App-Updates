@@ -1,0 +1,20 @@
+﻿{
+    "channels":  {
+                     "stable":  {
+                                    "channel":  "stable",
+                                    "latest":  {
+                                                   "version":  "2.5.24",
+                                                   "minimum_supported_version":  "2.5.23",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.24/DentalSystem-Setup-2.5.24.exe",
+                                                   "sha256":  "e2740aa4c9f88deaa2a3a960961658efe3f300b58f9fbd605d71d4858abb9307",
+                                                   "size_bytes":  16704784,
+                                                   "installer_args":  [
+
+                                                                      ],
+                                                   "mandatory":  false,
+                                                   "notes":  "Fix updater: anti-cache de manifest, fallback robusto de descarga y bloqueo de apertura de navegador ante fallo SHA."
+                                               },
+                                    "published_at_utc":  "2026-03-16T17:29:25.1303306Z"
+                                }
+                 }
+}
