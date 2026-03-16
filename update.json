@@ -3,18 +3,18 @@
                      "stable":  {
                                     "channel":  "stable",
                                     "latest":  {
-                                                   "version":  "2.5.22",
+                                                   "version":  "2.5.23",
                                                    "minimum_supported_version":  "2.5.22",
-                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.22/DentalSystem-Setup-2.5.22.exe",
-                                                   "sha256":  "88f9045f189dc2b5c656db861ca5e29579b9f86338663761a461ce54f5ebb074",
-                                                   "size_bytes":  16687198,
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.23/DentalSystem-Setup-2.5.23.exe",
+                                                   "sha256":  "b86b33d6a30837469a84d2f6a4cabd278d1d8e28f2dd4ba5186cda150cd7a2e9",
+                                                   "size_bytes":  16701669,
                                                    "installer_args":  [
 
                                                                       ],
                                                    "mandatory":  false,
-                                                   "notes":  "Fix documentos: guardado estable de presupuestos y recetas; cierre de caja con nombres reales."
+                                                   "notes":  "UI documentos: tabla presupuesto sin overflow; dialogs presupuesto/receta/certificado alineados; mejoras visuales de sidebar y version"
                                                },
-                                    "published_at_utc":  "2026-03-14T01:53:03.4146622Z"
+                                    "published_at_utc":  "2026-03-16T16:37:47.5109679Z"
                                 }
                  }
 }

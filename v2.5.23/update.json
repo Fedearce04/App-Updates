@@ -1,0 +1,20 @@
+﻿{
+    "channels":  {
+                     "stable":  {
+                                    "channel":  "stable",
+                                    "latest":  {
+                                                   "version":  "2.5.23",
+                                                   "minimum_supported_version":  "2.5.22",
+                                                   "download_url":  "https://github.com/Fedearce04/App-Updates/releases/download/v2.5.23/DentalSystem-Setup-2.5.23.exe",
+                                                   "sha256":  "b86b33d6a30837469a84d2f6a4cabd278d1d8e28f2dd4ba5186cda150cd7a2e9",
+                                                   "size_bytes":  16701669,
+                                                   "installer_args":  [
+
+                                                                      ],
+                                                   "mandatory":  false,
+                                                   "notes":  "UI documentos: tabla presupuesto sin overflow; dialogs presupuesto/receta/certificado alineados; mejoras visuales de sidebar y version"
+                                               },
+                                    "published_at_utc":  "2026-03-16T16:37:47.5109679Z"
+                                }
+                 }
+}
